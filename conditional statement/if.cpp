@@ -10,13 +10,13 @@ int main() {
 	if else
 	*/
 	if (true) {
-		cout << "Âü";
+		cout << "Ã‚Ã¼";
 	}
 	else if (true) {
-		cout << "Âü";
+		cout << "Ã‚Ã¼";
 	}
 	else {
-		cout << "°ÅÁþ";
+		cout << "Â°Ã…ÃÃ¾";
 	}
 	return 0;
 }
