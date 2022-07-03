@@ -19,9 +19,9 @@ public:
 	void sell(int, float);
 	void update(float);
 	void show();
-	//»ı¼ºÀÚ
+	//ìƒì„±ì
 	Stock(string,int,float);
-	//±âº»»ı¼ºÀÚ
+	//ê¸°ë³¸ìƒì„±ì
 	Stock();
 	~Stock();
 };
